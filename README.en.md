@@ -1,13 +1,13 @@
 ## Warp Scanner
 
-language : 🇮🇷[Persian](README.md)| 🇹🇷[Turkish](README.tr.md)| 🇬🇧[English](README.en.md)| 🇨🇳[Chinese](README.zh-CN.md)| 🇯🇵[Japanese](README.ja.md)
+language : 🇮🇷[Persian](README.md)| 🇹🇷[Turkish](README.tr.md)| 🇬🇧[English](README.en.md)| 🇨🇳[Chinese](README.zh-CN.md) | 🇯🇵[Japanese](README.ja.md)
 
 <p align="center">   
    <img  width=70% src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
 </p> 
 
 <p align="center">   
-   <img  width="70%" src="https://github.com/arshiacomplus/WarpScanner/blob/main/Arshia.jpg" />
+   <img  width="70%" src="" />
 </p>
 
 > Download Thermox from Google Play Do not download Thermox from Google Play
@@ -19,7 +19,7 @@ language : 🇮🇷[Persian](README.md)| 🇹🇷[Turkish](README.tr.md)| 🇬�
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
 ```POV-Ray SDL
-bash <(curl -fsSL https://raw.githubusercontent.com/arshiacomplus/WarpScanner/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/thefatedefeater/WarpScanner/main/install.sh)
 ```
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
@@ -34,7 +34,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/arshiacomplus/WarpScanner/ma
 
 ##### And then you have to give the memory access to Termox that you are asked
 
-##### And then
+##### and then
 
 ##### Note: You can create a clean IP for Vahid panel (with inter) and bpb panel (with comma).
 
@@ -65,15 +65,15 @@ If you get a timeout error, try a few more times<br><br/>
 > This is for those who get error requests 👈👈<https://t.me/arshia_mod_fun/298>
 
 By entering option 1 and after that 2 
- You can get the IP version of Shish, which is also implemented for Option 5 Wireguard configuration for Mehsa Anji and Vettori.
+ You can get the IP version of Shish, which is also implemented for Option 5 Wireguard configuration for Mahsa Anji and Vettori.
 
-After copying the Wire Guard configuration with the IP version of Shish and then importing it into the client, do this so that you don't get a bug.
+After copying the Wire Guard configuration with the IP version of Shish and then importing it into the client, do this so as not to run into a bug.
 
 -   1\. Pencil button
 -   2\. Putting the bracket next to the IP[ipvsh]
 -   3\. Storage<br><br/>
 
-## 6. To get wireguard configuration for Vettori and Mehsa Anji and... without IP scan
+## 6. To get wireguard configuration for Vettori and Mahsa Anji and... without IP scan
 
 If you press n, it will select the IP that I have already set
  Otherwise 
@@ -84,7 +84,7 @@ If you press n, it will select the IP that I have already set
 
 ## 7. To get config, warp on warp for v2ray and MahsaNG, you can use option 7 (help was taken from the bpb panel....)
 
-You will be asked whether Po sites (Kung Fu Panda) will be blocked or not<br><br/>
+You will be asked if Po sites (Kung Fu Panda) will be blocked or not<br><br/>
 
 ## 8. You can subwarp that warp for v2ray or MahsaNg
 
@@ -109,7 +109,7 @@ Type of use:
 
 ## to donate
 
-<b>Trx:</b><br><a href="https://link.trustwallet.com/send?coin=195&address=TKUpVDG5DqLDUSg3X1hhidRPuhm1GmqZ2G">TKUpVDG5DqLDUSg3X1hhidRPuhm1GmqZ2G</a><br><b>USDT:</b><br><a href="https://link.trustwallet.com/send?coin=60&address=0xBcE10b8B572DdFAc53855879ebCE9942296553A3&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7">0xBcE10b8B572DdFAc53855879ebCE9942296553A3</a>
+<b>Trx:</b><br><a href="https://link.trustwallet.com/send?coin=195&address=TKUpVDG5DqLDUSg3X1hhidRPuhm1GmqZ2G">TKUpVDG5DqLDUSg3X1hhidRPuhm1GmqZ2G</a><br><b>USDT:</b><br><a href="https://link.trustwallet.com/send?coin=60&address=0xBcE10b8B572DdFAc53855879ebCE9942296553A3&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7">0xpsi10bdbhhddfsfhbhbhhsssssssssss 42296553aa</a>
 
 ## Support the project
 
